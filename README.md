@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lalasharifova
-- 👀 I’m interested in Python, JS, SQL
+- 👀 I’m a Software QA Automation Engineer
 - 🌱 I have completed a QA Automation Course
 - 💞️ I’m looking to collaborate on a wonderful team. 
 - 📫 How to reach me https://www.linkedin.com/in/lalasharifova/
